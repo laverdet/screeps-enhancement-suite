@@ -1,0 +1,14 @@
+.ses-stats {
+	position: absolute;
+	left: -230px;
+	width: 200px;
+	top: 5px;
+}
+
+.ses-stats td {
+	text-align: right;
+}
+
+.ses-stats th, .ses-stats td {
+	padding: 0;
+}
